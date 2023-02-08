@@ -1,0 +1,3 @@
+[submodule "NFormer_ORIGINAL"]
+	path = NFormer/Original
+	url = https://github.com/haochenheheda/NFormer
