@@ -132,5 +132,4 @@ reid_env/
 dataset*
 facemask/
 *.out
-*.jpg
 output*
